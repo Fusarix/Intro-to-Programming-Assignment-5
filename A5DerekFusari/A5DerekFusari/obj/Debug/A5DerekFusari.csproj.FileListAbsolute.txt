@@ -1,0 +1,56 @@
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.pdb
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.g.cs
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\App.g.cs
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.cache
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.lref
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.baml
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.g.resources
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.Properties.Resources.resources
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csproj.GenerateResource.Cache
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.exe
+c:\users\derek\documents\visual studio 2015\Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe.config
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.g.cs
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\App.g.cs
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.cache
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.lref
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.baml
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.g.resources
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.Properties.Resources.resources
+C:\Users\Derek\Desktop\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csproj.GenerateResource.Cache
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe.config
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.g.cs
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\App.g.cs
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.cache
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.lref
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.baml
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.g.resources
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.Properties.Resources.resources
+C:\Users\Derek\Desktop\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csproj.GenerateResource.Cache
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe.config
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.exe
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\bin\Debug\A5DerekFusari.pdb
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.g.cs
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\App.g.cs
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.cache
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari_MarkupCompile.lref
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\MainWindow.baml
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.g.resources
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.Properties.Resources.resources
+C:\Users\Derek\Desktop\School Schtuffs\Conestoga Course Work\Conestoga College Fall 2015 Course Work\Visual Studio Projects\A5DerekFusari\A5DerekFusari\obj\Debug\A5DerekFusari.csproj.GenerateResource.Cache
